@@ -43,23 +43,6 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: 'Dual Boot',
-      items: [
-        { text: 'Introduction', link: '/DualBoot/Introduction'},
-        { text: 'Apply DualBoot', link:'/DualBoot/PatchKernel.md'},
-        { text: 'Config', link: '/DualBoot/Config'},
-        { text: 'Shell Code', link: '/DualBoot/ShellCode'},
-      ]
-    },
-    {
-      text: 'Porting UEFI',
-      items: [
-        { text: 'UEFI Porting Guide', link: '/PortingGuides/SimpleGuide'},
-        { text: 'Definitions', link: '/PortingGuides/DefinesGuidance'},
-        { text: 'Find Protocol Addresses For Kailua', link: '/PortingGuides/FindProtocolAddressesForKailua'},
-      ]
-    },
-    {
       text: 'Reference Tables',
       items: [
         { text: "QC Silicons' Codenames Reference", link: "/ReferenceTables/QCSiliconCodenameReferenceTable"},
