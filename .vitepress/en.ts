@@ -60,13 +60,6 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: 'Debug Windows',
-      items: [
-        { text: 'Setup KDNET', link: '/WindowsDebug/SetupKDNET.md'},
-        { text: 'Setup KDCOM', link: '/WindowsDebug/SetupKDCOM.md'},
-      ]
-    },
-    {
       text: 'Reference Tables',
       items: [
         { text: "QC Silicons' Codenames Reference", link: "/ReferenceTables/QCSiliconCodenameReferenceTable"},
