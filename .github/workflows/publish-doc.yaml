@@ -1,4 +1,4 @@
-# Deploy VitePress Pages
+# Deploy Pages
 name: Deploy Pages
 
 on:
